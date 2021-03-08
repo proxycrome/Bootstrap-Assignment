@@ -1,0 +1,23 @@
+body{
+    background: url(../images/new-york.jpg) no-repeat center center fixed;
+    background-size: cover;   
+}
+
+#img_logo{
+    max-height: 100px;
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+    width: 350px;
+    
+}
+
+#login-modal input[type=text], input[type=password]{
+    margin-top: 10px ;
+}
+
+.modal-content{
+    background-color: #c1c1c1;
+}
